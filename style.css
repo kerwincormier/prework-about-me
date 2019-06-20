@@ -1,0 +1,43 @@
+<head>>
+  <style>
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+          }
+
+    .red {
+      color: red;
+    }
+
+    .blue {
+      color: blue;
+    }
+
+    .green {
+      color: green;
+    }
+
+    .all {
+      color: blue;
+    }
+    
+    .big {font-size: 24px;}
+    .tiny {font-size: 8px;}
+    .center {text-align: center;}
+    .bold {font-weight: bold;}
+    .font {font-family: fantasy;}
+
+    .bigorangebold {font-size: 26px; color: orange; font-weight: bold}
+    .styledFont {color: green; font-family: cursive }
+        img {
+        padding:6px;
+        border:6px solid #eeff00; border-style: solid;
+     }
+
+
+
+  </style>
+</head>
